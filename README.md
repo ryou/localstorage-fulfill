@@ -1,0 +1,5 @@
+# LocalStorage Fulfill
+
+ローカルストレージに限界までデータ突っ込むやつ
+
+QuotaExceedErrorのテストをする時に必要なので雑に用意した
